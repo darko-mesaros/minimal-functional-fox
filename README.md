@@ -2,7 +2,7 @@
 
 > ###### *A minimal, yet functional configuration for Firefox!*
 
-![Demo](https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/darko-mesaros/minimal-functional-fox/master/demo.gif)
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 ------
@@ -47,13 +47,13 @@
 You can quickly install minimal functional fox via the command-line by using `curl`:
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/darko-mesaros/minimal-functional-fox/master/install.sh)"
 ```
 
 It is a good idea to inspect the install script for projects you aren't familiar with. To do that, you can download the install script separately, go through it to make sure everything looks OK, then go ahead and run it once you are satisfied:
 
 ```bash
-curl -Lo install.sh https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh
+curl -Lo install.sh https://raw.githubusercontent.com/darko-mesaros/minimal-functional-fox/master/install.sh
 sh install.sh
 ```
 
